@@ -1,0 +1,305 @@
+{
+    "Glad": [
+        {
+            "author": {
+                "name": "Cyril Brisson",
+                "email": "cbrisson@smart-trade.net"
+            },
+            "content": "J'ai pu faire une jira intéressante sur les thread leak",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:03:36.443Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Dorah Bosc",
+                "email": "dbosc@smart-trade.net"
+            },
+            "content": "travailler en pair",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:03:47.604Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Hichem Hamzaoui",
+                "email": "hhamzaoui@smart-trade.net"
+            },
+            "content": "good collaboration, let's keep it up",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:06:53.967Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Ibrahima Diallo",
+                "email": "idiallo@smart-trade.net"
+            },
+            "content": "Bon suivi de mon stage au sein de la squad",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:04:32.680Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jérémie Niel",
+                "email": "jniel@smart-trade.net"
+            },
+            "content": "on s'aide c'est cool",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:06:47.289Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Nahel Kridallah",
+                "email": "nkridallah@smart-trade.net"
+            },
+            "content": "pair programming c'est cool",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:03:30.327Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Nahel Kridallah",
+                "email": "nkridallah@smart-trade.net"
+            },
+            "content": "Le sujet SSI super bien géré ! bravo tout le monde",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:03:50.682Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Nathan Monthrwjhealt",
+                "email": "nmonthrwjhealt@smart-trade.net"
+            },
+            "content": "bonne productivité et \nautonomie de la squad",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:05:10.839Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Nathan Monthrwjhealt",
+                "email": "nmonthrwjhealt@smart-trade.net"
+            },
+            "content": "Très bonne réponse tactic",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:06:40.070Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Romain Santucci",
+                "email": "rsantucci@smart-trade.net"
+            },
+            "content": "mon sprint fut agréable",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:09:03.749Z",
+            "comments": []
+        }
+    ],
+    "Sad": [
+        {
+            "author": {
+                "name": "Cyril Brisson",
+                "email": "cbrisson@smart-trade.net"
+            },
+            "content": "Problème sur les FF du nouveau blotter.",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:05:52.299Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Dorah Bosc",
+                "email": "dbosc@smart-trade.net"
+            },
+            "content": "Difficile d'avoir es info archi pour avancer",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:04:15.450Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Dorah Bosc",
+                "email": "dbosc@smart-trade.net"
+            },
+            "content": "stucture des jira product est compliquée pour  retrouver le contexte/besoins",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:05:56.554Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Hichem Hamzaoui",
+                "email": "hhamzaoui@smart-trade.net"
+            },
+            "content": "Ne pas oublier si le jira n'est pas testable, il vaut mieux de mettre le champ QA Resolution en NA ",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:07:40.656Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Hichem Hamzaoui",
+                "email": "hhamzaoui@smart-trade.net"
+            },
+            "content": "Pour ce sprint mes stats sont liées au boulot d'autres Squads",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:31:59.181Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jérémie Niel",
+                "email": "jniel@smart-trade.net"
+            },
+            "content": "éviter de prendre des golives backend d'une autre squad",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:04:31.041Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jérémie Niel",
+                "email": "jniel@smart-trade.net"
+            },
+            "content": "des jiras difficiles à expliquer pour le QA",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:35:48.205Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Lino Sauvaire",
+                "email": "lsauvaire@smart-trade.net"
+            },
+            "content": "Les cours de scala ont été particulièrement long a suivre mais intéressant a la fois\n",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:04:27.578Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Nahel Kridallah",
+                "email": "nkridallah@smart-trade.net"
+            },
+            "content": "Pair programming dans le contexte SSI REST API + blocker c'est pas le top",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:04:17.463Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Nathan Monthrwjhealt",
+                "email": "nmonthrwjhealt@smart-trade.net"
+            },
+            "content": "l'import dans confluence de la restroprective",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:03:29.546Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Jira STAX plus complexe que prévue",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:03:45.623Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Develop SMS parfois cassé par d'autres équipes en début de Sprint",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:07:07.197Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Quid des releases/merges avec catalog ?",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:08:10.641Z",
+            "comments": []
+        }
+    ],
+    "Actions": [
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Montrer l'import d'une rétrospective sur Confluence",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:17:45.092Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Bien choisir les sujets en pair programming selon le niveau",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:21:31.403Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Ecraser la version voulue dans SMS develop (elle sera enlevée par le mergeur de Catalog)",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:30:49.738Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Ne pas oublier de renseigner QA NA si nécessaire",
+            "group": null,
+            "votes": 0,
+            "date": "2022-05-30T14:40:22.866Z",
+            "comments": []
+        }
+    ]
+}

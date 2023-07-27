@@ -1,0 +1,217 @@
+{
+    "Glad": [
+        {
+            "author": {
+                "name": "Dorah Bosc",
+                "email": "dbosc@smart-trade.net"
+            },
+            "content": "plus autonome qu'avant ",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:38:14.300Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Hichem Hamzaoui",
+                "email": "hhamzaoui@smart-trade.net"
+            },
+            "content": "une bonne évolution, collaboration & ambiance dans la squad",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:38:52.127Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Ibrahima Diallo",
+                "email": "idiallo@smart-trade.net"
+            },
+            "content": "Bonne aide pour ma présentation",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:38:10.060Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jérémie Niel",
+                "email": "jniel@smart-trade.net"
+            },
+            "content": "demo outils retro!",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:41:09.545Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Lino Sauvaire",
+                "email": "lsauvaire@smart-trade.net"
+            },
+            "content": "Bonne ambiance avec un bon exo de stage qui m'as pas mal fais réfléchir\n",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:36:37.172Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Lino Sauvaire",
+                "email": "lsauvaire@smart-trade.net"
+            },
+            "content": "@tetstst &&&&& efjejfqjfjf",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-16T07:37:12.477Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Lino Sauvaire",
+                "email": "lsauvaire@smart-trade.net"
+            },
+            "content": "@&€efjes",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-16T07:37:19.226Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Nathan Monthrwjhealt",
+                "email": "nmonthrwjhealt@smart-trade.net"
+            },
+            "content": "Une bonne productivité général",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:36:57.903Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Blotters RFQ enfin prêts à être testés (accessibles)",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:37:10.892Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Tout le monde sait comment utiliser Elastic :-)",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:40:54.963Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Romain Santucci",
+                "email": "rsantucci@smart-trade.net"
+            },
+            "content": "j'ai eu du temps pour tout !",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:39:13.377Z",
+            "comments": []
+        }
+    ],
+    "Sad": [
+        {
+            "author": {
+                "name": "Dorah Bosc",
+                "email": "dbosc@smart-trade.net"
+            },
+            "content": "automation framework toujours pas intuitif",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:38:27.038Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Hichem Hamzaoui",
+                "email": "hhamzaoui@smart-trade.net"
+            },
+            "content": "Encore il y un manque de détails sur les Jira Improvement  (description, impacted components , fix versions ..)",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:41:16.239Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jérémie Niel",
+                "email": "jniel@smart-trade.net"
+            },
+            "content": "peut on faire une \"requête\" de tests? ou créer des jiras test QA?",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:36:36.565Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Develop SMS encore souvent cassé lors du pull",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:36:02.941Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Romain Santucci",
+                "email": "rsantucci@smart-trade.net"
+            },
+            "content": "je n'avais pas vu le lien dans l'invit",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T13:38:00.921Z",
+            "comments": []
+        }
+    ],
+    "Actions": [
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Faire un document partagé sur les bugs du Datagrid",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T14:06:46.332Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Faire une passe finale et \"complète\" sur les blotters Datagrid",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T14:07:00.299Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Philippe Vanden Bossche",
+                "email": "pvbossche@smart-trade.net"
+            },
+            "content": "Ne pas hésiter à compléter les informations de ses Jiras notamment le Feature Flag",
+            "group": null,
+            "votes": 0,
+            "date": "2022-06-10T14:10:05.430Z",
+            "comments": []
+        }
+    ]
+}

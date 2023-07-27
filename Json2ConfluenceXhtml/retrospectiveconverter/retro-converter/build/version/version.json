@@ -1,0 +1,14 @@
+{
+	"containerName": "AXMIG",
+	"version": "5.3.4.7",
+	"dependencies": [
+		{
+			"containerName": "AXMIG",
+			"minVersion": "5.3.4.7"
+		},
+		{
+			"containerName": "DBASE",
+			"minVersion": "4.2.0.0"
+		}
+	]
+}
